@@ -10,7 +10,7 @@ data:
     - groups:
       - expense-pod-reader
       userarn: arn:aws:iam::128941703955:user/FaithfulDreamer
-      username: harish
+      username: FaithfulDreamer
 kind: ConfigMap
 metadata:
   creationTimestamp: "2024-07-05T01:35:42Z"
